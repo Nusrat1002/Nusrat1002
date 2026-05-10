@@ -102,7 +102,7 @@ fun_fact    : "I debug with coffee and fix bugs with curiosity ☕"
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nusrat-jahan-jannat174b98370)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nusrat-jahan-jannat-174b98370)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nusrat.j.jannat103@gmail.com)
 
 <br/><br/>
