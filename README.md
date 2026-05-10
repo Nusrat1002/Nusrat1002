@@ -75,12 +75,8 @@ fun_fact    : "I debug with coffee and fix bugs with curiosity ☕"
 
 ### `< github stats />`
 
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=C9A84C&icon_color=C9A84C&text_color=ffffff&ring_color=C9A84C" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=C9A84C&text_color=ffffff" />
-
 <br/><br/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=ffffff&dates=aaaaaa&sideNums=ffffff&currStreakNum=C9A84C" />
 
